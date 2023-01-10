@@ -1,0 +1,101 @@
+.jumbotron {
+  padding: 6rem;
+  background-color: #ffc8ed;
+}
+
+#project {
+  background-color: #ffc8ed;
+}
+
+.carousel-control-next-icon {
+  margin-right: -200px;
+}
+
+.carousel-control-prev-icon {
+  margin-left: -200px;
+}
+
+section {
+  padding: 4rem;
+}
+/*body {
+  background-color: #f5deb3;
+}
+.Title {
+  margin: -10px -10px;
+  text-align: center;
+  background-color: red;
+  width: auto;
+  height: 355px;
+  overflow: auto;
+}
+
+.Title p {
+  margin: 20px 0 0 0;
+  font-size: 60px;
+}
+.Photo {
+  width: auto;
+  height: 260px;
+  background-color: green;
+  border-top: 5px solid black;
+}
+
+.Photo img {
+  width: 170px;
+  height: 220px;
+  border-radius: 80%;
+  margin: 20px 60px 20px 50px;
+  float: left;
+}
+
+.Photo p {
+  text-align: justify;
+  color: white;
+  font-size: 80px;
+  margin-top: 0px;
+  padding: 60px;
+}
+
+.container {
+  margin: 20px 20px 0 20px;
+  padding-left: 10px;
+  width: 70%;
+  height: auto;
+  background-color: #e9d7b7;
+  float: left;
+}
+
+.container p {
+  font-size: 50px;
+}
+
+table {
+  font-size: 25px;
+}
+
+td {
+  padding: 0 5px;
+}
+
+.Education {
+  font-size: 25px;
+  list-style: disc;
+  padding: 0 30px;
+}
+
+.contact {
+  margin: 20px 0 0 20px;
+  padding-left: 10px;
+}
+.contact img {
+  width: 100px;
+  height: 100px;
+}
+
+.contact a {
+  clear: both;
+  vertical-align: middle;
+}
+
+*/
