@@ -18,6 +18,37 @@
 section {
   padding: 4rem;
 }
+
+.number {
+  display: none;
+}
+
+/*star rating*/
+
+.rating-box header {
+  font-size: 22px;
+  color: #dadada;
+  font-weight: 500;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.rating-box .stars {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.stars i {
+  color: #e6e6e6;
+  font-size: 35px;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+.stars i.add-star {
+  color: #fbff00;
+}
+
+/* Modified from: https://github.com/mukulkant/Star-rating-using-pure-css */
+
 /*body {
   background-color: #f5deb3;
 }
